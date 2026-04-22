@@ -14,6 +14,6 @@ public class Bank {
 
     public static void main(String[] args) {
         Bank bank = new Bank();
-        System.out.println(bank.deposit(100, 100));
+        System.out.println(bank.deposit(100, 50));
     }
 }
